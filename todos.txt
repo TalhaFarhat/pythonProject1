@@ -1,0 +1,9 @@
+clean
+copy
+paste
+prepare
+ready
+Write
+Read
+
+new member
